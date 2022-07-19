@@ -9,3 +9,5 @@ update in stage.
 More updates in working directory.
 
 I am making a change
+
+I like making changes
